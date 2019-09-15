@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana;
+}
+.header {
+    margin: auto;
+    width: 80%;
+    display: grid;
+}
+.toolbar {
+    margin: auto;
+    width: 80%;
+    display: grid;
+}
+.list {
+    width: 80%;
+    margin: auto;
+    display: grid;
+}
+input {
+    height: 35px;
+}
+input[type="button"] {
+    width: 140px;
+}
+.nav {
+    border: 2px solid #ff0000;
+    background-color: #990033;
+    border-right: 1px solid black;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    background-color: #990000;
+}
+footer {
+    text-align: center;
+}
